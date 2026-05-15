@@ -1,4 +1,4 @@
-# Qima 🚗
+# Qima 
 
 **[qimaroc.streamlit.app](https://qimaroc.streamlit.app/)**
 
